@@ -7,20 +7,50 @@
     },
     {
       "id": 2,
-      "name": "Computer",
-      "price": 1199,
-      "imgUrl": "/images/computer.jpg"
+      "name": "Notebook",
+      "price": 6.79,
+      "imgUrl": "/images/notebook.jpg"
     },
     {
       "id": 3,
+      "name": "Encyclopedia",
+      "price": 56.99,
+      "imgUrl": "/images/encyclopedia.jpg"
+    },
+    {
+      "id": 4,
       "name": "Banana",
       "price": 1.05,
       "imgUrl": "/images/banana.jpg"
     },
     {
-      "id": 4,
-      "name": "Car",
-      "price": 14000,
-      "imgUrl": "/images/car.jpg"
+      "id": 5,
+      "name": "Apple",
+      "price": 0.85,
+      "imgUrl": "/images/apple.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Lemon",
+      "price": 0.55,
+      "imgUrl": "/images/lemon.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Headphone",
+      "price": 39.50,
+      "imgUrl": "/images/headphone.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Keyboard",
+      "price": 25.75,
+      "imgUrl": "/images/keyboard.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mouse",
+      "price": 32.95,
+      "imgUrl": "/images/mouse.jpg"
     }
 ]

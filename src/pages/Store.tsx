@@ -7,7 +7,7 @@ const Store = () => {
     return (
         <>
             <h1>Store</h1>
-            <Row lg={3} md={2} xs={1} className='g-3'>
+            <Row lg={3} md={2} xs={1} className='g-5'>
                 {
                     storeItems.map(item => (
                         <Col key={item.id}>

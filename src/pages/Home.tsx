@@ -1,7 +1,9 @@
-
 const Home = () => {
     return (
-        <div>Home</div>
+        <>
+            <h1>Home</h1>
+            <h5>A very simple React shopping app developed using TypeScript</h5>
+        </>
     )
 }
 
